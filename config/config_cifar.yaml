@@ -1,0 +1,4 @@
+paths:
+  input_dir: data/images/cifar/
+  output_dir: output/cifar/
+  # annotations_file: data/annotations.csv

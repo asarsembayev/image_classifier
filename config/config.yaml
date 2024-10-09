@@ -1,0 +1,7 @@
+paths:
+  input_dir: data/images/
+  output_dir: output/
+  annotations_file: data/annotations.csv
+
+training:
+  batch_size: 64
